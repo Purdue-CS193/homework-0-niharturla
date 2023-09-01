@@ -1,3 +1,9 @@
+# Nihar Turlapati's First CS193 Homework
+
+- I like the different tools/technical skills we learn such as github and terminal
+- It is a collaborative class that helps the students
+- This class can help me discover what I love about CS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
